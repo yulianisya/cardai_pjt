@@ -1,0 +1,21 @@
+{
+  "name": "cardai_pjt",
+  "version": "1.0.0",
+  "main": "home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-openid-connect": "^2.7.1",
+    "mysql": "^2.18.1",
+    "socket.io": "^4.4.1",
+    "sqlite3": "^5.0.2"
+  },
+  "description": ""
+}
